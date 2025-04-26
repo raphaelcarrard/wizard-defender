@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 99f6af2d1ebfd8c49ac49f11e6dc3b15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1093897896430776101
+    second: Cave_0
+  - first:
+      213: 5613625410805641350
+    second: Cave_1
+  - first:
+      213: -6904588194007982752
+    second: Cave_2
+  - first:
+      213: -3599981608736371148
+    second: Cave_3
+  - first:
+      213: -166943357939834585
+    second: Cave_4
+  - first:
+      213: -3502186859281277887
+    second: Cave_5
+  - first:
+      213: 8813304931990983627
+    second: Cave_6
+  - first:
+      213: -6688433147063477658
+    second: Cave_7
+  - first:
+      213: 7316793297809730775
+    second: Cave_8
+  - first:
+      213: -4845170792244362475
+    second: Cave_9
+  - first:
+      213: 5951026009885636841
+    second: Cave_10
+  - first:
+      213: -3044759361422347511
+    second: Cave_11
+  - first:
+      213: 3807257438876814715
+    second: Cave_12
+  - first:
+      213: 5154424330881927195
+    second: Cave_13
+  - first:
+      213: -1858677311074798011
+    second: Cave_14
+  - first:
+      213: 3648317675610061473
+    second: Cave_15
+  - first:
+      213: -4003172159838341851
+    second: Cave_16
+  - first:
+      213: -5157309767603549727
+    second: Cave_17
+  - first:
+      213: -6471723139270182898
+    second: Cave_18
+  - first:
+      213: -5529588739131890905
+    second: Cave_19
+  - first:
+      213: 5948354285055753362
+    second: Cave_20
+  - first:
+      213: 4187717558725092431
+    second: Cave_21
+  - first:
+      213: 2411881627010439108
+    second: Cave_22
+  - first:
+      213: 6653805697104430333
+    second: Cave_23
+  - first:
+      213: 4244239831416960097
+    second: Cave_24
+  - first:
+      213: 7227647757889852921
+    second: Cave_25
+  - first:
+      213: 5069533796533631158
+    second: Cave_26
+  - first:
+      213: 1090660722530879022
+    second: Cave_27
+  - first:
+      213: -5623592684834184834
+    second: Cave_28
+  - first:
+      213: 7971197192407144449
+    second: Cave_29
+  - first:
+      213: 2393700260515456483
+    second: Cave_30
+  - first:
+      213: 2102755085522077433
+    second: Cave_31
+  - first:
+      213: -3416502588600991543
+    second: Cave_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 56.07
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roof
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 995
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd052bea8a1b1d0f0800000000000000
+      internalID: -1093897896430776101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 740
+        width: 994
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803d21a19a97ed40800000000000000
+      internalID: 5613625410805641350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform2_Green
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 719
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d5ccf9e99fd20a0800000000000000
+      internalID: -6904588194007982752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 227
+        width: 894
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4455eccb4a0ec0800000000000000
+      internalID: -3599981608736371148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 617
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a26486e5eeadf0800000000000000
+      internalID: -166943357939834585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sickle
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 388
+        width: 95
+        height: 318
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9f7b5b9bb56fc0800000000000000
+      internalID: -3502186859281277887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformTopGreen
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 546
+        width: 226
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3558804262f4a70800000000000000
+      internalID: 8813304931990983627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformMiddleGreen
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 498
+        width: 224
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a55555d79ed23a0800000000000000
+      internalID: -6688433147063477658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformBottomGreen
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 457
+        width: 223
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc68e20db87a8560800000000000000
+      internalID: 7316793297809730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 336
+        width: 54
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134d24d5de72ccb0800000000000000
+      internalID: -4845170792244362475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spring
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 457
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f75840aa469250800000000000000
+      internalID: 5951026009885636841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformTop
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 226
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90330eb1e77deb5d0800000000000000
+      internalID: -3044759361422347511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformMiddle
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 338
+        width: 224
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d47bc087816d430800000000000000
+      internalID: 3807257438876814715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borderGround1
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 144
+        width: 82
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1809df9e91388740800000000000000
+      internalID: 5154424330881927195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: borderGround2
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 145
+        width: 79
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546fe4155d6a436e0800000000000000
+      internalID: -1858677311074798011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPlatformBottom
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 223
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa348aa89d61a230800000000000000
+      internalID: 3648317675610061473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hole
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 251
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253a1e5120e178c0800000000000000
+      internalID: -4003172159838341851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform1_Green
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 117
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e98659471e8d68b0800000000000000
+      internalID: -5157309767603549727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_18
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 185
+        width: 160
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08ff1fe712df26a0800000000000000
+      internalID: -6471723139270182898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7232b0ab654f243b0800000000000000
+      internalID: -5529588739131890905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cbbeed4bccc8250800000000000000
+      internalID: 5948354285055753362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 10
+        width: 195
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55ca29753cd4460800000000000000
+      internalID: 7227647757889852921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave_26
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 7
+        width: 160
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8793fd02a9a5640800000000000000
+      internalID: 5069533796533631158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleSpike
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 27
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268ce8062ec22f00800000000000000
+      internalID: 1090660722530879022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 14
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7129fa8f3cf4f1b0800000000000000
+      internalID: -5623592684834184834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Totem
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 560
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e606f676512f45adc5c311f33397b
+      internalID: 1293241623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 564
+        width: 108
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1f0a20b6f785458d2a72f8255f566
+      internalID: 969018548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2093f232c55243e4d8a6fd108ce35fab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background: -3599981608736371148
+      Cave_18: -6471723139270182898
+      Cave_21: 4187717558725092431
+      Cave_22: 2411881627010439108
+      Cave_23: 6653805697104430333
+      Cave_24: 4244239831416960097
+      Cave_26: 5069533796533631158
+      Cave_29: 7971197192407144449
+      Cave_30: 2393700260515456483
+      Cave_31: 2102755085522077433
+      Cave_32: -3416502588600991543
+      Cave_9: -4845170792244362475
+      Ground: 5613625410805641350
+      Hole: -4003172159838341851
+      Lava1: -5529588739131890905
+      Lava2: 5948354285055753362
+      Mushroom: 969018548
+      Platform1: 7227647757889852921
+      Platform1_Green: -5157309767603549727
+      Platform2: -166943357939834585
+      Platform2_Green: -6904588194007982752
+      Roof: -1093897896430776101
+      Sickle: -3502186859281277887
+      SingleSpike: 1090660722530879022
+      Spikes: -5623592684834184834
+      Spring: 5951026009885636841
+      Totem: 1293241623
+      bigPlatformBottom: 3648317675610061473
+      bigPlatformBottomGreen: 7316793297809730775
+      bigPlatformMiddle: 3807257438876814715
+      bigPlatformMiddleGreen: -6688433147063477658
+      bigPlatformTop: -3044759361422347511
+      bigPlatformTopGreen: 8813304931990983627
+      borderGround1: 5154424330881927195
+      borderGround2: -1858677311074798011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

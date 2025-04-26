@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 4e17a4b92509b7a4995588a39dc7cf29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4233592114656394495
+    second: Effects2_0
+  - first:
+      213: -8401280727393578775
+    second: Effects2_1
+  - first:
+      213: -7330784041232619044
+    second: Effects2_2
+  - first:
+      213: -7564723480585708959
+    second: Effects2_3
+  - first:
+      213: -5499393771628253183
+    second: Effects2_4
+  - first:
+      213: 2044375634779550550
+    second: Effects2_5
+  - first:
+      213: 4044336368591478474
+    second: Effects2_6
+  - first:
+      213: -6100089701472219735
+    second: Effects2_7
+  - first:
+      213: -8277830475412409970
+    second: Effects2_8
+  - first:
+      213: 1658477591716500409
+    second: Effects2_9
+  - first:
+      213: 3520747497161240284
+    second: Effects2_10
+  - first:
+      213: 4459064961561205581
+    second: Effects2_11
+  - first:
+      213: -6360564306081195350
+    second: Effects2_12
+  - first:
+      213: 5717158110186296478
+    second: Effects2_13
+  - first:
+      213: -1542427806085388431
+    second: Effects2_14
+  - first:
+      213: -3462050870340537018
+    second: Effects2_15
+  - first:
+      213: -3727337346544190257
+    second: Effects2_16
+  - first:
+      213: 6380211223507572584
+    second: Effects2_17
+  - first:
+      213: 8151267557983382721
+    second: Effects2_18
+  - first:
+      213: 838349971881537628
+    second: Effects2_19
+  - first:
+      213: -4388500218066507077
+    second: Effects2_20
+  - first:
+      213: -6418328852625961412
+    second: Effects2_21
+  - first:
+      213: -2976791589024989035
+    second: Effects2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 89.3
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeamBase
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1065
+        width: 114
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1003a12708a3ea3b0800000000000000
+      internalID: -5499393771628253183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceShot1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1198
+        width: 285
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bf7aeec41f5c10800000000000000
+      internalID: 2044375634779550550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceShot2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1171
+        width: 322
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adcab57cb0285ba0800000000000000
+      internalID: -6100089701472219735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beam
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1172
+        width: 266
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1f3815f7c1ed30800000000000000
+      internalID: 4459064961561205581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1173
+        width: 237
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d56aa20d675f40800000000000000
+      internalID: 5717158110186296478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thunder
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 643
+        width: 268
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ec69f0ae38de6a0800000000000000
+      internalID: -6418328852625961412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sector
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 726
+        width: 219
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5908bcd42df40b6d0800000000000000
+      internalID: -2976791589024989035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 082b70bcc864e79479d465132737f0e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beam: 4459064961561205581
+      BeamBase: -5499393771628253183
+      Effects2_0: -4233592114656394495
+      Effects2_10: 3520747497161240284
+      Effects2_12: -6360564306081195350
+      Effects2_14: -1542427806085388431
+      Effects2_15: -3462050870340537018
+      Effects2_16: -3727337346544190257
+      Effects2_17: 6380211223507572584
+      Effects2_18: 8151267557983382721
+      Effects2_19: 838349971881537628
+      Effects2_20: -4388500218066507077
+      Effects2_8: -8277830475412409970
+      Effects2_9: 1658477591716500409
+      Poison: 5717158110186296478
+      Sector: -2976791589024989035
+      Thunder: -6418328852625961412
+      iceShot1: 2044375634779550550
+      iceShot2: -6100089701472219735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
